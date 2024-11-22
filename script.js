@@ -5,7 +5,7 @@ const girlfriendName = "Girlfriend's Name";
 const nextMonthsary = new Date("2024-05-22T00:00:00").getTime();
 
 // Update the name
-document.getElementById("name").textContent = girlfriendName;
+document.getElementById("name").textContent = Precious Danielle;
 
 // Countdown timer
 const countdownElement = document.getElementById("countdown");
