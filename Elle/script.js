@@ -1,5 +1,5 @@
 // Replace 'Girlfriend's Name' with your girlfriend's actual name
-const girlfriendName = "Girlfriend's Name";
+const girlfriendName = "Precious Danielle";
 
 // Set the date of your next monthsary
 const nextMonthsary = new Date("2024-05-22T00:00:00").getTime();
